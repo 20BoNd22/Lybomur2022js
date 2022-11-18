@@ -23,9 +23,9 @@ let nam4 = 2.7
 console.log(nam4);
 let nam5 = 16
 console.log(nam5);
-Boolean1 = true
+boolean1 = true
 console.log(Boolean1);
-Boolean2 = false
+boolean2 = false
 console.log(Boolean2)
 
 

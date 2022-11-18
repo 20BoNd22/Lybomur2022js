@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e48acfe9-aee3-4146-bbf3-57aa7f243d87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework1/Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework1/main.js" afterDir="false" />
+    <list default="true" id="e48acfe9-aee3-4146-bbf3-57aa7f243d87" name="Changes" comment="JS">
+      <change afterPath="$PROJECT_DIR$/Homework2/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework1/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +54,18 @@
       <workItem from="1668272577786" duration="4640000" />
       <workItem from="1668287026751" duration="8000" />
       <workItem from="1668332172501" duration="650000" />
-      <workItem from="1668360249067" duration="7344000" />
+      <workItem from="1668360249067" duration="7505000" />
+      <workItem from="1668624673785" duration="76000" />
+      <workItem from="1668796135690" duration="3778000" />
     </task>
+    <task id="LOCAL-00001" summary="JS">
+      <created>1668371916109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668371916109</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS" />
   </component>
 </project>
